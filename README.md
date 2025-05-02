@@ -1,1 +1,1 @@
-Base de code pour le cours HTML CSS
+![Capture d'écran du site web](./images/Capture.png)
